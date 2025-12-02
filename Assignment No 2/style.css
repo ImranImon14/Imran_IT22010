@@ -9,3 +9,8 @@
     "wdth" 100,
     "CTRS" 0;
 }
+.carousel-item img{
+  height: 80vh;
+  width:50%;
+
+}
